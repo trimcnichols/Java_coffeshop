@@ -37,6 +37,7 @@ public class Coffeeshop {
             System.out.println("no coffee - amount requested is 0 or less");
         }
         // no coffee
+        sc.close();
     }
 }
 }
